@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+[![Social banner for Tushar](<img src="https://github.com/Tushar2771/Tushar2771/blob/main/cover.jpeg" width="30px">)
 <h1 align='center'> Hi Folks! :wave:</h1>
 <p align='center'>
 I'm Tushar.

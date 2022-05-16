@@ -1,4 +1,4 @@
-<img src="https://github.com/Tushar2771/Tushar2771/blob/main/cover.jpeg" width="500px">
+<img src="https://github.com/Tushar2771/Tushar2771/blob/main/cover.jpeg" width="1500px">
 <h1 align='center'> Hi Folks! :wave:</h1>
 <p align='center'>
 I'm Tushar.
